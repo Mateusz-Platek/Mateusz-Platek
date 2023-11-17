@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mateusz-Platek/Mateusz-Platek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
